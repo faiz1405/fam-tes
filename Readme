@@ -1,0 +1,4 @@
+####how to run:
+npm init
+npm install nodemon
+localhost:5000
