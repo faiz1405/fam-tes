@@ -1,4 +1,5 @@
 ####how to run:
 npm init
 npm install nodemon
+nodemon index.js
 localhost:5000
